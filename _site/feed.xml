@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-09-26T13:43:12-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Viswanath (Vish) Sivakumar</title><author><name>Viswanath Sivakumar</name></author><entry><title type="html">First Thoughts on Academic Writing</title><link href="http://localhost:4000/blog/2024/01/25/first-thoughts.html" rel="alternate" type="text/html" title="First Thoughts on Academic Writing" /><published>2024-01-25T11:00:00-05:00</published><updated>2024-01-25T11:00:00-05:00</updated><id>http://localhost:4000/blog/2024/01/25/first-thoughts</id><content type="html" xml:base="http://localhost:4000/blog/2024/01/25/first-thoughts.html"><![CDATA[Academic writing is both an art and a science. After years of writing papers, proposals, and reports, I've learned a few things about what makes writing effective in academic contexts.
+
+## The Importance of Clarity
+
+The most important aspect of academic writing is clarity. Your ideas might be brilliant, but if they're not clearly communicated, they won't have the impact they deserve.
+
+### Key Principles
+
+1. **Start with the big picture**: Help your readers understand the context before diving into details
+2. **Use active voice**: It's more engaging and easier to follow
+3. **Be specific**: Avoid vague language and provide concrete examples
+4. **Structure your arguments**: Use clear headings and logical flow
+
+## The Writing Process
+
+I've found that the best academic writing comes from a structured process:
+
+1. **Outline first**: Plan your argument before you start writing
+2. **Write freely**: Don't worry about perfection in the first draft
+3. **Revise ruthlessly**: Cut unnecessary words and clarify confusing passages
+4. **Get feedback**: Ask colleagues to review your work
+
+## Common Pitfalls
+
+- **Overcomplicating**: Simple language is often more effective
+- **Lack of focus**: Stay on topic and avoid tangents
+- **Poor organization**: Structure your paper logically
+- **Insufficient evidence**: Support your claims with data and citations
+
+Academic writing is a skill that improves with practice. The key is to keep writing, keep revising, and keep learning from feedback.
+
+---
+
+*What are your thoughts on academic writing? I'd love to hear your experiences and tips.*]]></content><author><name>Viswanath Sivakumar</name></author><category term="blog" /><summary type="html"><![CDATA[Academic writing is both an art and a science. After years of writing papers, proposals, and reports, I’ve learned a few things about what makes writing effective in academic contexts.]]></summary></entry><entry><title type="html">Building a Personal Website with Jekyll</title><link href="http://localhost:4000/blog/2024/01/20/building-a-personal-website.html" rel="alternate" type="text/html" title="Building a Personal Website with Jekyll" /><published>2024-01-20T09:30:00-05:00</published><updated>2024-01-20T09:30:00-05:00</updated><id>http://localhost:4000/blog/2024/01/20/building-a-personal-website</id><content type="html" xml:base="http://localhost:4000/blog/2024/01/20/building-a-personal-website.html"><![CDATA[Building a personal website is one of the best ways to establish your online presence, especially in academia and tech. Here's why I chose Jekyll and how you can get started too.
+
+## Why Jekyll?
+
+Jekyll is a static site generator that's perfect for personal websites because:
+
+- **Simple and Fast**: Static sites load quickly and are easy to maintain
+- **Version Control**: Your entire website is stored in Git
+- **Free Hosting**: GitHub Pages provides free hosting for Jekyll sites
+- **Markdown Support**: Write content in Markdown, which is simple and readable
+- **Customizable**: Easy to customize with themes and plugins
+
+## Getting Started
+
+1. **Install Jekyll**: Follow the [official installation guide](https://jekyllrb.com/docs/installation/)
+2. **Create a new site**: `jekyll new my-site`
+3. **Choose a theme**: Minima is a great starting point
+4. **Customize**: Modify `_config.yml` and create your content
+5. **Deploy**: Push to GitHub and enable GitHub Pages
+
+## Tips for Success
+
+- Keep your content organized with clear categories
+- Use descriptive filenames and titles
+- Keep your content organized and up-to-date
+- Make sure your site is mobile-friendly
+- Regularly update your content
+
+Building a personal website is a rewarding project that can help you showcase your work and connect with others in your field.
+
+---
+
+*What's your experience with personal websites? Let me know in the comments!*]]></content><author><name>Viswanath Sivakumar</name></author><category term="blog" /><summary type="html"><![CDATA[Building a personal website is one of the best ways to establish your online presence, especially in academia and tech. Here’s why I chose Jekyll and how you can get started too.]]></summary></entry><entry><title type="html">Welcome to My Blog</title><link href="http://localhost:4000/blog/2024/01/15/welcome-to-my-blog.html" rel="alternate" type="text/html" title="Welcome to My Blog" /><published>2024-01-15T05:00:00-05:00</published><updated>2024-01-15T05:00:00-05:00</updated><id>http://localhost:4000/blog/2024/01/15/welcome-to-my-blog</id><content type="html" xml:base="http://localhost:4000/blog/2024/01/15/welcome-to-my-blog.html"><![CDATA[Welcome to my personal blog! This is my first post, and I'm excited to share my thoughts and experiences with you.
+
+## What to Expect
+
+In this blog, I'll be writing about:
+
+- My research and academic work
+- Technology and programming insights
+- Personal reflections and experiences
+- Book reviews and recommendations
+- And much more!
+
+## Getting Started
+
+This blog is built with Jekyll and uses the Minima theme, which provides a clean and simple design perfect for academic and personal websites.
+
+I'll be posting regularly, so make sure to check back often.
+
+Thanks for reading, and I look forward to sharing more content with you soon!
+
+---
+
+*Feel free to reach out if you have any questions or suggestions for future posts.*]]></content><author><name>Viswanath Sivakumar</name></author><category term="blog" /><summary type="html"><![CDATA[Welcome to my personal blog! This is my first post, and I’m excited to share my thoughts and experiences with you.]]></summary></entry></feed>

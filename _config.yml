@@ -1,0 +1,13 @@
+title: Viswanath (Vish) Sivakumar
+author: Viswanath Sivakumar
+email: viswanathgs@gmail.com
+baseurl: ""
+url: "https://viswanathgs.github.io"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag

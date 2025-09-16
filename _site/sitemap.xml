@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/blog/2024/01/15/welcome-to-my-blog.html</loc>
+<lastmod>2024-01-15T05:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/2024/01/20/building-a-personal-website.html</loc>
+<lastmod>2024-01-20T09:30:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/2024/01/25/first-thoughts.html</loc>
+<lastmod>2024-01-25T11:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/assets/resume.pdf</loc>
+<lastmod>2025-09-25T18:10:49-04:00</lastmod>
+</url>
+</urlset>

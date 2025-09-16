@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  <title>{{ page.title }} - {{ site.title }}</title>
+</head>
+<body>
+  <div class="header">
+    <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+    <div class="nav">
+      <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="active"{% endif %}>home</a>
+      <a href="{{ '/blog/' | relative_url }}"{% if page.url == '/blog/' %} class="active"{% endif %}>blog</a>
+    </div>
+  </div>
+  
+  {% unless page.title == 'Blog' %}
+  <h2>{{ page.title }}</h2>
+  {% endunless %}
+  
+  <div class="content">
+    {{ content }}
+  </div>
+
+</body>
+</html>

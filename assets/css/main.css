@@ -1,0 +1,217 @@
+/* Main stylesheet for viswanathgs.github.io */
+
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600&display=swap');
+
+/* Prevent scrollbar-induced shifting */
+html {
+  overflow-y: scroll;
+}
+
+/* Base styles */
+body { 
+  font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  max-width: 580px; 
+  margin: 60px auto; 
+  padding: 0 25px; 
+  line-height: 1.7; 
+  color: #111827; 
+  font-size: 15px;
+  font-weight: 400;
+  background-color: #ffffff;
+}
+
+/* Header styles */
+.header { 
+  display: flex; 
+  justify-content: space-between; 
+  align-items: baseline; 
+  margin-bottom: 30px;
+  border-bottom: 1px solid #f3f4f6;
+  padding-bottom: 15px;
+}
+
+h1 { 
+  font-size: 1.2em; 
+  font-weight: 600; 
+  margin: 0; 
+  border-bottom: none;
+  color: #111827;
+  letter-spacing: -0.01em;
+}
+
+h1 a { 
+  color: #111827; 
+  text-decoration: none; 
+}
+
+h1 a:hover { 
+  color: #111827; 
+}
+
+h2 { 
+  font-size: 1.1em; 
+  font-weight: 400; 
+  margin-top: 0; 
+  margin-bottom: 10px; 
+  color: #666;
+}
+
+/* Navigation styles */
+.nav { 
+  font-size: 15px; 
+  font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+}
+
+.nav a { 
+  color: #718096; 
+  margin-left: 24px;
+  text-decoration: underline;
+  text-decoration-color: #c4c9d0;
+  text-underline-offset: 2px;
+}
+
+.nav a:hover {
+  color: #111827;
+  text-decoration: underline;
+  text-decoration-color: #4b5563;
+  text-underline-offset: 2px;
+}
+
+.nav a.active {
+  color: #111827;
+  text-decoration: underline;
+  text-decoration-color: #4b5563;
+  text-underline-offset: 2px;
+}
+
+/* Link styles */
+a { 
+  color: #374151; 
+  text-decoration: underline; 
+  text-decoration-color: #c4c9d0;
+  text-underline-offset: 2px;
+}
+
+a:hover { 
+  color: #111827; 
+  text-decoration-color: #4b5563;
+}
+
+/* Content styles */
+.content {
+  margin-top: 30px;
+}
+
+.content h2:first-child {
+  margin-top: 0;
+  margin-left: 0;
+  font-weight: 600;
+  color: #111827;
+}
+
+.content .post-meta {
+  margin-left: 0;
+}
+
+/* Tighter line spacing for blog post content only */
+.content .post-meta ~ p,
+.content .post-meta ~ div p,
+.content h2 ~ p {
+  line-height: 1.5;
+}
+
+/* Post-specific styles */
+.post-meta {
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 50px;
+  font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+}
+
+.post-title {
+  margin-bottom: 10px;
+}
+
+/* Blog listing styles */
+.post-list {
+  list-style: none;
+  padding: 0;
+}
+
+.post-list li {
+  margin-bottom: 20px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #f3f4f6;
+}
+
+.post-list li:last-child {
+  border-bottom: none;
+}
+
+.post-list h3 {
+  margin: 0 0 5px 0;
+  font-size: 1.1em;
+  font-weight: 600;
+}
+
+.post-list .post-date {
+  font-size: 14px;
+  color: #6b7280;
+}
+
+/* Social links styles */
+.social { 
+  margin-top: 0; 
+  margin-bottom: 25px;
+  font-size: 13px; 
+  font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+}
+
+.social a { 
+  margin-right: 20px; 
+  color: #718096; 
+  font-weight: 400;
+  text-decoration: none;
+}
+
+.social a:hover {
+  color: #111827;
+  text-decoration: underline;
+  text-decoration-color: #cbd5e0;
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+/* List styles */
+ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 30px 0;
+}
+
+ul li:before {
+  content: "• ";
+  color: #ccc;
+  margin-right: 12px;
+}
+
+ul li {
+  margin-bottom: 8px;
+  padding-left: 0;
+}
+
+ol {
+  padding-left: 20px;
+  margin: 30px 0;
+}
+
+ol li {
+  margin-bottom: 8px;
+}
+
+p {
+  margin-bottom: 20px;
+}
