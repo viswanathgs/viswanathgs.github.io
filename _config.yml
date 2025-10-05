@@ -4,6 +4,9 @@ email: viswanathgs@gmail.com
 baseurl: ""
 url: "https://viswanathgs.github.io"
 
+# Permalink settings
+permalink: /blog/:title/
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
