@@ -3,7 +3,9 @@ layout: home
 title: Home
 ---
 
+<div class="social-links" markdown="1">
 [github](https://github.com/viswanathgs) \| [linkedin](https://linkedin.com/in/viswanathgs) \| [resume](/assets/resume.pdf) \| [twitter](https://twitter.com/viswanathgs) \| [scholar](https://scholar.google.com/citations?user=hLPvq9AAAAAJ) \| [email](mailto:viswanathgs@gmail.com)
+</div>
 
 I'm an AI Researcher, currently exploring independent directions.
 
